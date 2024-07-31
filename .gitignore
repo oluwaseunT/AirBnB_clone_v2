@@ -1,2 +1,6 @@
 v2env/
 web_flask/__pycache__/
+models/__pycache_/
+models/engine/__pycache__/__init__.cpython-310.pyc
+models/engine/__pycache__/db_storage.cpython-310.pyc
+
