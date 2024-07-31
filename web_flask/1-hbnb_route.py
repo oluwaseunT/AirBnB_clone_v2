@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 """
-starts a Flask web application
-Routes: 
-    /: display "Hello HBNB"
-    /hbnb: display "HBNB"
+starts a Flask web application adding /hbnb
 """
 
 from flask import Flask
